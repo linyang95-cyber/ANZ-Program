@@ -1,6 +1,8 @@
 # ANZ-Program
 Analyse a Packet Capture file using an open source tool to identify and investigate any potential threats
+
 Task 1: If you identify malicious content within the emails, you will need to write a brief report detailing why it is malicious.
+
 Task 2: Suspicious network activity has been detected coming from a user on the ANZ network. 
 
 A laptop has been flagged up on our security systems due to suspicious internet traffic, and we need you to investigate the network traffic in order to establish what the user accessed and downloaded.
